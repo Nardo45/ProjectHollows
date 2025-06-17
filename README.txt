@@ -30,3 +30,15 @@ controls:
     WASD to move
     space to jump
     shift to toggle running
+    Escape to unlock the mouse
+    E to interact    
+
+goal:
+    Find three keys
+    Activate three generators
+    Go back to start once all are activated
+    Don't get caught
+
+rules:
+    Each key can only activate one generator
+    Don't let the slasher catch you
